@@ -1,0 +1,6 @@
+{
+  "name": "Competitive English Practice & Prep",
+  "description": "An interactive prep application for SSC CGL, Banking, and CDS exams featuring Rani Mam's 60 Rules of Grammar 2.0. Includes Spotting the Error, Reading Comprehension, Cloze Tests, Sentence Improvement, active AI tutoring, and custom question generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
